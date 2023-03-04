@@ -447,7 +447,7 @@ h3 {
 /* Responsive media queries */
 
 @media (min-width: 576px) {
-	/* Offers */
+	/* Offers & Latest Articles*/
 
 	.offers-container,
 	.latest-articles-container {
@@ -455,13 +455,7 @@ h3 {
 		grid-template-columns: 1fr 1fr;
 	}
 
-	.offers-intro {
-		grid-column: 1 / span 2;
-		text-align: left;
-	}
-
-	/* Latest Articles */
-
+	.offers-intro,
 	.latest-articles-heading {
 		grid-column: 1 / span 2;
 		text-align: left;
