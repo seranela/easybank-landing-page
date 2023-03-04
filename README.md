@@ -9,7 +9,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -36,8 +35,6 @@ Users should be able to:
 - CSS Grid
 - JavaScript
 - Mobile-first workflow
-
-### What I learned
 
 ## Author
 
