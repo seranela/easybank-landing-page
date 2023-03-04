@@ -447,12 +447,20 @@ h3 {
 /* Responsive media queries */
 
 @media (min-width: 576px) {
-	/* Latest Articles */
+	/* Offers */
 
+	.offers-container,
 	.latest-articles-container {
 		grid-auto-flow: columns;
 		grid-template-columns: 1fr 1fr;
 	}
+
+	.offers-intro {
+		grid-column: 1 / span 2;
+		text-align: left;
+	}
+
+	/* Latest Articles */
 
 	.latest-articles-heading {
 		grid-column: 1 / span 2;
