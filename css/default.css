@@ -62,7 +62,6 @@ body {
 	color: var(--color-neutral-gray-blue);
 	font: 400 1rem var(--font-main);
 	text-rendering: optimizeSpeed;
-	shape-rendering: optimizeSpeed;
 	min-height: 100vh;
 }
 
