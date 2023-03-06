@@ -252,6 +252,7 @@ h3 {
 .offers-intro {
 	text-align: center;
 	padding-bottom: 1.5rem;
+	max-width: 40rem;
 }
 
 .offer {
@@ -458,7 +459,6 @@ h3 {
 	.offers-intro,
 	.latest-articles-heading {
 		grid-column: 1 / span 2;
-		text-align: left;
 	}
 }
 
@@ -625,6 +625,7 @@ h3 {
 
 	.latest-articles-heading {
 		grid-column: 1 / span 4;
+		text-align: left;
 	}
 
 	/* Footer */
