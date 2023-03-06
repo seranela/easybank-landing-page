@@ -2,7 +2,7 @@ const button = document.querySelector('#menu-toggle');
 const nav = document.querySelector('#nav-header');
 
 function resizeUpdate() {
-	if (document.body.offsetWidth >= 600) {
+	if (document.body.offsetWidth >= 768) {
 		nav.setAttribute('aria-expanded', false);
 		nav.classList.remove('nav-header-show');
 		button.classList.remove('nav-header-button-close');
